@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a systematic and disciplined method of developing, testing, deploying, designing, and maintaining software systems. It applies engineering principles to create software products that are efficient, reliable, scalable, and maintainable.
 Software engineering involves various approaches, tools, and practices to control the lifecycle of software development (SDLC). Agile, Scrum, Waterfall, and DevOps are some examples of methodologies being used, which have their specific methods of undertaking software projects. 
 
